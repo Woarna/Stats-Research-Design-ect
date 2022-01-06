@@ -37,7 +37,7 @@ Suppose we squared the deviation from the mean rather than simply taking the abs
 
 ![image](https://cdn.discordapp.com/attachments/928314217617043456/928325246740729906/unknown.png)
 
-**NOTE:** This is if you LITERALLY intend to calculate the variance of a sample purely descriptively. Variance is calculated different when drawing inferences
+**NOTE:** This is if you LITERALLY intend to calculate the variance of a sample purely descriptively. Variance is calculated differently when drawing inferences
 
 Standard deviation is the square root of the variance.
 
@@ -56,7 +56,7 @@ If a data has a lot of extreme small values and not so many extremely large valu
 ![image](https://cdn.discordapp.com/attachments/928314217617043456/928328576313487400/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/928314217617043456/928328948134330378/unknown.png)
 
-Where N is number of observations, X bar is the mean, and Delta Hat is standard deviation (For the delta hat standard deviation calculation, 1/N-1 is used over 1/N)
+Where N is number of observations, X bar is the mean, and Delta Hat is standard deviation (For the delta hat standard deviation calculation, 1/N-1 is used not 1/N)
 
 # Kurtosis
 
