@@ -3,7 +3,7 @@
 The frequentist defines probability as a long-run frequency. 
 The probability of an event is it's relative frequency in some amount of trials N, where the limit of N is taken to infinity. 
 
-* The frequentist view has a desirable characteristic. it's objective. The pobability of an event is necessarily grounded.
+* The frequentist view has a desirable characteristic. it's objective. The pobability of an event is necessarily grounded in the real world.
 If two people observed the same sequence of trials they would arrive at the same probability.
 * The frequentist view also has undesirable characteristics. First, infinite sequences don't actually exist so it might be hard to say that it's a meaningful concept.
 Secondly, there are things that we do assign probabilities too that can't be mapped onto a sequence of events. A frequentist view of probability generally doesn't allow probability
